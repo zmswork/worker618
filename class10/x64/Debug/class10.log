@@ -1,0 +1,3 @@
+﻿  game.cpp
+D:\study\C\class10\game.cpp(116,85): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  class10.vcxproj -> D:\study\C\class10\x64\Debug\class10.exe
